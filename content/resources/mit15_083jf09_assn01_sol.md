@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 036d2a3a-2279-3643-fd86-a541c71d8046
 resourcetype: Document
 title: MIT15_083JF09_assn01_sol.pdf
 uid: 9254df85-c806-f8bf-0ad9-b0482e4fdd60

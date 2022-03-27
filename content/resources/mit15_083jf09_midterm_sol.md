@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 72b44f22-03e4-7ced-1cc6-4bae0b2bd833
 resourcetype: Document
 title: MIT15_083JF09_midterm_sol.pdf
 uid: cc12e865-acfe-be95-d04e-9214e6e73b6d

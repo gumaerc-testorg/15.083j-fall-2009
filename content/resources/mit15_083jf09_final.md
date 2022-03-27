@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 72b44f22-03e4-7ced-1cc6-4bae0b2bd833
 resourcetype: Document
 title: MIT15_083JF09_final.pdf
 uid: d101f9ca-f665-2e80-51fe-1b43066baa65
