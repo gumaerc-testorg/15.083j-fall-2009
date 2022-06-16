@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -94,7 +95,7 @@ If you choose to submit solutions, they will be considered in your HW grade for 
 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_083jf09_assn05))
+({{% resource_link b2fb73ff-6921-c096-cf4c-5dfb5adf62a2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Lec #19
