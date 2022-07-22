@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings assigned from the course
+  textbook.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c200f5e9-419a-1194-0163-738da6e6c28b
 ---

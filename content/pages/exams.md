@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the midterm and final exam for the course.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 72b44f22-03e4-7ced-1cc6-4bae0b2bd833
 ---
@@ -22,7 +26,7 @@ FILES
 Midterm
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_083jf09_midterm))
+({{% resource_link c910e271-b868-6c96-f875-c736eca7e1ca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +35,7 @@ Midterm
 Final
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_083jf09_final))
+({{% resource_link d101f9ca-f665-2e80-51fe-1b43066baa65 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
