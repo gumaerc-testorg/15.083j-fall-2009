@@ -5,6 +5,7 @@ file: /courses/15-083j-integer-programming-and-combinatorial-optimization-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT15_083JF09_assn03_sol.pdf
 uid: 16d0e15e-656c-d7a4-aa19-6e099e6e747e
 ---
 This resource contains solutions of problem set 3. 
-

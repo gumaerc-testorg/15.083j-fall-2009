@@ -5,6 +5,7 @@ file: /courses/15-083j-integer-programming-and-combinatorial-optimization-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT15_083JF09_midterm.pdf
 uid: c910e271-b868-6c96-f875-c736eca7e1ca
 ---
 This resource contains problem statements of midterm exam. 
-

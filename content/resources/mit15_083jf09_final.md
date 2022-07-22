@@ -5,6 +5,7 @@ file: /courses/15-083j-integer-programming-and-combinatorial-optimization-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT15_083JF09_final.pdf
 uid: d101f9ca-f665-2e80-51fe-1b43066baa65
 ---
 This resource contains problem statements of final exam. 
-
