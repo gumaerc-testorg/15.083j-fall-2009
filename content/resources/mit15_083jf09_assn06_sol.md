@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions of problem set 6. '
 file: /courses/15-083j-integer-programming-and-combinatorial-optimization-fall-2009/2e7bdc94c082084b55327700ef4d213e_MIT15_083JF09_assn06_sol.pdf
+file_size: 121486
 file_type: application/pdf
 learning_resource_types:
 - Assignments
