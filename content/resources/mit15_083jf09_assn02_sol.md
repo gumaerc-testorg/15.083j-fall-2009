@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains solutions of problem set 2. '
-file: /courses/15-083j-integer-programming-and-combinatorial-optimization-fall-2009/ab0ec8e837b6fecb268fcc973cf3d073_MIT15_083JF09_assn02_sol.pdf
+file: /ol-ocw-studio-app/courses/15-083j-integer-programming-and-combinatorial-optimization-fall-2009/ab0ec8e837b6fecb268fcc973cf3d073_MIT15_083JF09_assn02_sol.pdf
 file_size: 187637
 file_type: application/pdf
 learning_resource_types:
