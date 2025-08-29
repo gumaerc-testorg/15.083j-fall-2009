@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains problem statements of final exam. '
-file: /courses/15-083j-integer-programming-and-combinatorial-optimization-fall-2009/d101f9caf6652e8051fe1b43066baa65_MIT15_083JF09_final.pdf
+file: /ol-ocw-studio-app/courses/15-083j-integer-programming-and-combinatorial-optimization-fall-2009/d101f9caf6652e8051fe1b43066baa65_MIT15_083JF09_final.pdf
 file_size: 137027
 file_type: application/pdf
 learning_resource_types:
